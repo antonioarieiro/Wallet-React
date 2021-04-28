@@ -37,9 +37,8 @@ Utilizamos uma API para retornar as Moedas Disponiveis e a para fazer as convers
 <br>
 -🎓:computer: software engineer student from TRYBE -T8
 
-<p id="tecnologias">
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sclparieiro2020@gmail.com)	
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sclparieiro2020@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-da-silva-arieiro-junior-50a9301b2/)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
@@ -50,7 +49,8 @@ Utilizamos uma API para retornar as Moedas Disponiveis e a para fazer as convers
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html)
 
 ![CSS](http://img.shields.io/badge/CSS-000000?style=flat&logo=css)
-</p>
+
+
 
 <h4 align="center"> 
 	🚧  Projeto ainda deve ser Implementado  🚀 Em construção...  🚧
