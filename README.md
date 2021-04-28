@@ -34,9 +34,7 @@
 	<p>Depois inicie</p>
 	<p><b>npm start</b></p>
   </p>
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sclparieiro2020@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-da-silva-arieiro-junior-50a9301b2/)
-<hr>
+  <br>
 <p id="tecnologias">  📦 Desenvolvimento </p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -78,4 +76,5 @@
 -🎓:computer: student computer science from UFT - Palmas-TO
 <br>
 -🎓:computer: software engineer student from TRYBE -T8
+
 
