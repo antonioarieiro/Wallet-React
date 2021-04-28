@@ -9,7 +9,7 @@
  <p align="center">
  <a href="#instalacao">Instalação</a> • 
  <a href="#objetivo">Objetivo</a> •
- <a href="#funcionalidades">Instalação</a> • 
+ <a href="#funcionalidades">Funcionalidades</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
