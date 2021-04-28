@@ -4,7 +4,7 @@
   <br>
   COMO UTILIZAR:
   <br>
-  Apos clonar o Projeto utilize o npm install para instalar as dependencias Do projeto
+  Apos clonar o Projeto utilize o ** npm install ** para instalar as dependencias Do projeto
   <br>
   Depois basta startar com npm start
   <br>
