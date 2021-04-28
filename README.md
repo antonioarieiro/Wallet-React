@@ -24,7 +24,7 @@
 	</ul>
 </p>
   <p id="instalacao">
-	#####🔧 Instalação
+	#####🔧 <b>Instalação</b>
 	<p>Apos Clonar o Repositorio installe as Dependencias</p>
 	<p>npm install</p>
 	<p>Depois basta Startar</p>
