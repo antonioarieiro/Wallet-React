@@ -37,12 +37,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sclparieiro2020@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-da-silva-arieiro-junior-50a9301b2/)
 <hr>
-<p id="tecnologias">  📦 Desenvolvimento 
-Todo esse fluxo(state) é controlado pelo React Redux
-A mudança da rotas é feita com Redirect ,
-Utilizamos uma API para retornar as Moedas Disponiveis e a para fazer as conversões de valores De Moeda para Moeda
-
-</p>
+<p id="tecnologias">  📦 Desenvolvimento </p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
@@ -68,6 +63,7 @@ Utilizamos uma API para retornar as Moedas Disponiveis e a para fazer as convers
 - [x] Editar Despesa
 - [x] Deletar Despesa
 - [ ] Conectar ao BDD
+- [ ] Salvar Dados da Aplicação no BDD do Usuario
 - [ ] Criar Validação de usuario no BDD
 
 <br>
