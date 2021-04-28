@@ -2,13 +2,13 @@
 
 <h3> :open_file_folder: Projeto Utilizando Js | React | Route | Redux  </h3>
   <br>
-  COMO UTILIZAR:
+ ### 🔧 Instalação
   <br>
   Apos clonar o Projeto utilize o 
- ``` npm install ```
+ ```php npm install ```
   para instalar as dependencias Do projeto
   <br>
-  Depois basta startar com ``` npm start ``` 
+  Depois basta startar com ```php npm start ``` 
   <br>
   O projeto Consiste em uma Carteira Virtural, que te da uma visão/controle de suas despesas
   <br>
