@@ -23,6 +23,7 @@
 		<li>  Deletar Despesa </li>
 	</ul>
 </p>
+<hr>
   <p id="instalacao">
 	#####🔧 <b>Instalação</b>
 	<p>Apos Clonar o Repositorio installe as Dependencias</p>
