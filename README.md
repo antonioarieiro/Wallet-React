@@ -16,12 +16,13 @@
   <br>
   <p id="func">
 
-<p>  Funcionalidades :</p>
+<p>  Funcionalidades :
 	<ul>
 		<li>  Criar Despesa </li>
 		<li>  Editar Despesa </li>
 		<li>  Deletar Despesa </li>
 	</ul>
+</p>
 ### 🔧 Instalação
   <p id="instalacao
 	<p>Apos Clonar o Repositorio installe as Dependencias</p>
