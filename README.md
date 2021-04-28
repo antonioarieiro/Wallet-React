@@ -7,7 +7,8 @@
   <br>
  <p align="center">
  <a href="#instalacao">Instalação</a> • 
- <a href="#objetivo">Objetivo</a> • 
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#funcionalidades">Instalação</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
@@ -17,7 +18,7 @@
   <hr>
   <p id="func">
 
-<p>  Funcionalidades :
+<p id="funcionalidades">  Funcionalidades :
 	<ul>
 		<li>  Criar Despesa </li>
 		<li>  Editar Despesa </li>
@@ -44,7 +45,7 @@ Utilizamos uma API para retornar as Moedas Disponiveis e a para fazer as convers
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sclparieiro2020@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-da-silva-arieiro-junior-50a9301b2/)
 <hr>
-<p id="tecnologias"> Tecnologias</p>
+<p id="tecnologias"> ## 📦 Desenvolvimento </p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
@@ -71,5 +72,14 @@ Utilizamos uma API para retornar as Moedas Disponiveis e a para fazer as convers
 - [x] Deletar Despesa
 - [ ] Conectar ao BDD
 - [ ] Criar Validação de usuario no BDD
+
+<br>
+<p id="autor"></p>
+## ✒️ Autor
+
+* - *Trabalho  -(https://github.com/antonioarieiro)
+
+--
+⌨️ com ❤️ por (https://github.com/antonioarieiro) 😊
 
 
