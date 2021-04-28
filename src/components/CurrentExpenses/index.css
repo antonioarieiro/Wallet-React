@@ -1,0 +1,9 @@
+.addExpense {
+    text-align: center;
+    margin:auto;
+    border: solid 1px;
+}
+
+.addExpense button{
+    margin: auto;
+}
