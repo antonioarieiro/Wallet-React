@@ -68,7 +68,7 @@
 <p id="autor"></p>
  ✒️ Autor
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-da-silva-arieiro-junior-50a9301b2/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-arieiro-50a9301b2/)
 
 --
 ⌨️ com ❤️ por (https://github.com/antonioarieiro) 😊
