@@ -1,7 +1,8 @@
 ##### Hi, I'm Antonio Arieiro I'm Dev Jr. :boy: : 
 
 <h1 align="center">Carteira Virutal</h1>
-<h3> :open_file_folder: Projeto Utilizando Js | React | Route | Redux  </h3>
+## Descrição do Projeto
+<p align="center">:open_file_folder: Projeto Utilizando Js | React | Route | Redux</p>
   <br>
  ### 🔧 Instalação
   <br>
