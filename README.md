@@ -1,7 +1,7 @@
 ##### Hi, I'm Antonio Arieiro I'm Dev Jr. :boy: : 
 
 <h1 align="center">Carteira Virutal</h1>
-##### Descrição do Projeto
+🚀 Descrição do Projeto
 <p align="center">:open_file_folder: Projeto Utilizando Js | React | Route | Redux</p>
   <br>
   <br>
@@ -28,7 +28,7 @@
 
 <hr>
   <p id="instalacao">
-	#####🔧 <b>Instalação</b>
+	🔧 <b>Instalação</b>
 	<p>Apos Clonar o Repositorio installe as Dependencias</p>
 	<p>npm install</p>
 	<p>Depois basta Startar</p>
@@ -45,7 +45,7 @@ Utilizamos uma API para retornar as Moedas Disponiveis e a para fazer as convers
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sclparieiro2020@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-da-silva-arieiro-junior-50a9301b2/)
 <hr>
-<p id="tecnologias"> ## 📦 Desenvolvimento </p>
+<p id="tecnologias">  📦 Desenvolvimento </p>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
@@ -75,9 +75,9 @@ Utilizamos uma API para retornar as Moedas Disponiveis e a para fazer as convers
 
 <br>
 <p id="autor"></p>
-## ✒️ Autor
+ ✒️ Autor
 
-* - *Trabalho  -(https://github.com/antonioarieiro)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-da-silva-arieiro-junior-50a9301b2/)
 
 --
 ⌨️ com ❤️ por (https://github.com/antonioarieiro) 😊
