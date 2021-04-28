@@ -12,7 +12,7 @@
  <a href="#autor">Autor</a>
 </p>
   <br>
-  O projeto Consiste em uma Carteira Virtural, que te da uma visão/controle de suas despesas
+  <p id="objetivo"> O projeto Consiste em uma Carteira Virtural, que te da uma visão/controle de suas despesas </p>
   <br>
   Funcionalidades :
   
