@@ -1,21 +1,24 @@
 ##### Hi, I'm Antonio Arieiro I'm Dev Jr. :boy: : 
 
 <h1 align="center">Carteira Virutal</h1>
-## Descrição do Projeto
+##### Descrição do Projeto
 <p align="center">:open_file_folder: Projeto Utilizando Js | React | Route | Redux</p>
   <br>
  ### 🔧 Instalação
   <br>
-  Apos clonar o Projeto utilize o 
- ```php npm install ```
-  para instalar as dependencias Do projeto
-  <br>
-  Depois basta startar com 
-  ```
-git status
-git add
-git commit
-```
+ <!--ts-->
+   * [Instalação](#Instalaão)
+   * [Tabela de Conteudo](#tabela-de-conteudo)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
+<!--te-->
   <br>
   O projeto Consiste em uma Carteira Virtural, que te da uma visão/controle de suas despesas
   <br>
