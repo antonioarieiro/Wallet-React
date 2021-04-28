@@ -30,29 +30,26 @@
 <hr>
   <p id="instalacao">
 	🔧 <b>Instalação</b>
-	<2. Instale as dependências e inicialize o projeto
-  * Instale as dependências:
-    * `npm install`
-  * Inicialize o projeto:
-    * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
+	<p>Primeiro Instale as Dependencias do Proejto </p
+	<p><b>npm install</b></p>
+	<p>Apos isso inicie </p>
+	<p><b>npm start</b></p>
   </p>
   <br>
 <p id="tecnologias">  📦 Desenvolvimento </p>
->>>>>>> 03729e0ef750a2256efd0f1236fde2b722c51e82
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+
+![REACT](http://img.shields.io/badge/REACT-000000?style=flat&logo=react)
+
+![REDUX](https://img.shields.io/badge/REDUX-000000?style=flat&logo=redux)
+
+![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html)
+
+![CSS](http://img.shields.io/badge/CSS-000000?style=flat&logo=css)
+
 
 ---
-
-# Avisos Finais
-
-Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o formulário. Leva menos de 3 minutos!
-
-Link: [FORMULÁRIO DE AVALIAÇÃO DE PROJETO](https://bit.ly/3oQUErg)
-
-O avaliador automático não necessariamente avalia seu projeto na ordem em que os requisitos aparecem no readme. Isso acontece para deixar o processo de avaliação mais rápido. Então, não se assuste se isso acontecer, ok?
-
-<<<<<<< HEAD
----
-=======
 
 
 <h4 align="center"> 
@@ -83,5 +80,3 @@ O avaliador automático não necessariamente avalia seu projeto na ordem em que 
 <br>
 -🎓:computer: software engineer student from TRYBE -T8
 
-
->>>>>>> 03729e0ef750a2256efd0f1236fde2b722c51e82
