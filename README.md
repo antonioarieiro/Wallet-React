@@ -7,11 +7,8 @@
  ### 🔧 Instalação
   <br>
  <p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
+ <a href="#objetivo">Objetivo</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
 </p>
   <br>
@@ -46,4 +43,19 @@ Utilizamos uma API para retornar as Moedas Disponiveis e a para fazer as convers
 ![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html)
 
 ![CSS](http://img.shields.io/badge/CSS-000000?style=flat&logo=css)
+
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>
+
+### Implementation
+
+- [x] Conexão ao Redux
+- [x] Action assíncrona
+- [x] Criar Despesa
+- [x] Editar Despesa
+- [x] Deletar Despesa
+- [ ] Conectar ao BDD
+- [ ] Criar Validação de usuario no BDD
+
 
